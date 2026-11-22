@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="87" height="20" role="img" aria-label="unread: 29%">
+<title>unread: 29% of this code was written by an agent and never seen by a person</title>
+<clipPath id="r"><rect width="87" height="20" rx="3"/></clipPath>
+<g clip-path="url(#r)"><rect width="52" height="20" fill="#0d1117"/><rect x="52" width="35" height="20" fill="#9e6a03"/></g>
+<g font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="11" text-anchor="middle">
+<text x="26" y="14" fill="#e6edf3">unread</text><text x="69" y="14" fill="#ffffff" font-weight="bold">29%</text>
+</g></svg>
